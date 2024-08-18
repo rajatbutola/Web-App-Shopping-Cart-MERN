@@ -54,7 +54,6 @@ mern-shopping-cart/
 │
 ├── server/                   # Node.js backend
 │   ├── config/               # Configuration files (e.g., MongoDB)
-│   ├── controllers/          # API request handlers
 │   ├── middleware/           # Authentication middleware
 │   ├── models/               # Mongoose models
 │   ├── routes/               # API routes
