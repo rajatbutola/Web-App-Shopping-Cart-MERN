@@ -30,3 +30,12 @@ A full-stack shopping cart web application built using the MERN stack (MongoDB, 
    ```bash
    git clone https://github.com/your-username/mern-shopping-cart.git
    cd mern-shopping-cart
+
+
+### Start the frontend client:
+
+```bash
+cd client
+npm start
+
+The React client will run on http://localhost:3000.
