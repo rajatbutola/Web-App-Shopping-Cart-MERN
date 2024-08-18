@@ -9,7 +9,6 @@ A full-stack shopping cart web application built using the MERN stack (MongoDB, 
 - **User Authentication:** Secure login and registration using JWT.
 - **State Management:** Managed with Redux for consistent application state.
 - **API Integration:** Axios is used for making HTTP requests to the server.
-- **Responsive Design:** Optimized for both desktop and mobile devices.
 
 ## Tech Stack
 
