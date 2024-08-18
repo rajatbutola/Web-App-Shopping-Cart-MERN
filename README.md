@@ -33,9 +33,31 @@ A full-stack shopping cart web application built using the MERN stack (MongoDB, 
 
 
 ### Start the frontend client:
-
+The React client will run on http://localhost:3000.
 ```bash
 cd client
 npm start
+```
 
-The React client will run on http://localhost:3000.
+
+Folder Structure
+```bash
+mern-shopping-cart/
+│
+├── client/                   # React frontend
+│   ├── src/
+│   │   ├── actions/          # Redux actions
+│   │   ├── components/       # React components
+│   │   ├── reducers/         # Redux reducers
+│   │   └── ...
+│   └── ...
+│
+├── server/                   # Node.js backend
+│   ├── config/               # Configuration files (e.g., MongoDB)
+│   ├── controllers/          # API request handlers
+│   ├── middleware/           # Authentication middleware
+│   ├── models/               # Mongoose models
+│   ├── routes/               # API routes
+│   └── ...
+│
+└── README.md                 # Project documentation
